@@ -1,2 +1,2 @@
 # helloworld
-just test
+just test for using github
