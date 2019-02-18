@@ -5,4 +5,4 @@ edit on local after server updates
 edit on local
 edit on remote before push
 
-
+edit on remote for test pull --rebase
