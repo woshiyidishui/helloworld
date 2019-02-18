@@ -6,3 +6,4 @@ edit on local
 edit on remote before push
 
 edit on remote for test pull --rebase
+edit on remote for test rebase
