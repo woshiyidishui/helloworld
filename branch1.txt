@@ -3,5 +3,5 @@ add something
 edit on server
 
 edit on local
-
+edit on remote before push
 
