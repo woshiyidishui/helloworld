@@ -3,6 +3,6 @@ add something
 edit on server
 edit on local after server updates
 edit on local
-
+edit on remote before push
 
 
