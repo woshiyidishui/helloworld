@@ -9,4 +9,4 @@ edit on remote for test pull --rebase
 edit on remote for test rebase
 server 222
 test for git gui
-
+test gui push
