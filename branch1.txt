@@ -12,3 +12,4 @@ test for git gui
 test gui push
 --- test branch change
 test branch1.1
+test merge branch1.1
