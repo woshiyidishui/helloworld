@@ -14,6 +14,7 @@ test gui push
 test branch1.1
 branch1.3 create
 branch1.3 merge
+add branch1.4
 add info for branch1.2
 merge branc1.2
 test merge branch1.1
