@@ -13,7 +13,7 @@ test gui push
 --- test branch change
 test branch1.1
 branch1.3 create
-branch1.3 merge
+branch1.3 merge and merge 1.4
 add branch1.4
 add info for branch1.2
 merge branc1.2
