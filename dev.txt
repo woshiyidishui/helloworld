@@ -1,2 +1,4 @@
 this is a dev branch.
-add a message and commit.
+add a message and commit.onConfigurationChanged
+--- test branch chage
+--- test merge dev_1 branch
