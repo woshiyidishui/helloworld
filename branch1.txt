@@ -13,4 +13,5 @@ test gui push
 --- test branch change
 test branch1.1
 add info for branch1.2
+merge branc1.2
 test merge branch1.1
