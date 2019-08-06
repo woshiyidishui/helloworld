@@ -20,3 +20,6 @@ merge branc1.2
 test merge branch1.1
 do something before merge 1.4
 
+/####################
+###### debug ########
+####################/
