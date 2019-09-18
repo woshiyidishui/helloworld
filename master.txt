@@ -2,3 +2,4 @@ test.txt
 test 111
 test 222
 1. add a tag v2.0
+test pick dev 111
